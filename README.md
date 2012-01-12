@@ -7,6 +7,12 @@ A list of places friendly to social oriented geeks. And it's on GitHub. Love it 
 
 [http://kaaes.github.com/work_from_cafe/](http://kaaes.github.com/work_from_cafe/)
 
+###Install locally
+
+    git clone git://github.com/Stanley/work_from_cafe
+    cd work_from_cafe/
+    couchapp push app.js http://localhost:5948/cafes
+
 ###How to contribute?
 Got a favourite cafe and wanna add it to the list?
 
